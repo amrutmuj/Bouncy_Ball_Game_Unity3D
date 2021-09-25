@@ -1,6 +1,8 @@
 # Bouncy Ball Game Unity3D
 
 This game is made in Unity3D. 
+This Game focus on developing a simple application of where using Arrow keys one can collect Rewards and thus Score will increase.
+The enemy feature is also in inbuild so that game is over if Ball Collides with The Prefabs of Enemy. 
 
 
 # Requirements & Prerequisites 
